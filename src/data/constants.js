@@ -12,7 +12,7 @@ export const Bio = {
         "I am a Motivated Software Engineer with six months of experience in MERN stack development, specializing in building high-performance, user-focused web applications. Passionate about problem-solving and continuous learning, with a proactive approach to delivering efficient and impactful software solutions.",
     github: "https://github.com/Shashin99",
     resume: " ",
-    linkedin: " ",
+    linkedin: "https://linkedin.com/in/shashin-kalpajith",
     twitter: " ",
     insta: " ",
     facebook: " ",
